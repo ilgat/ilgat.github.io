@@ -1,0 +1,19 @@
+git clone 仓库地址 
+
+cd 仓库名字
+
+git add . 上传全部代码
+
+git commit -m 备注
+
+git push 
+
+
+如果出现这个错误    git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+
+设置用户和邮箱就可以了 
+git config --global user.email 你的邮箱
+git config --global user.name 你的用户
